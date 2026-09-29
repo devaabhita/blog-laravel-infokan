@@ -6,12 +6,6 @@ Dibangun dengan **Laravel**, **Blade + Tailwind CSS**, **JavaScript biasa** (tan
 
 > Status: tahap awal. Panel admin belum ada, data awal diisi lewat seeder.
 
-## Tampilan
-
-| Beranda | Artikel Terbaru & Footer |
-|---|---|
-| ![Beranda](docs/screenshots/beranda.png) | ![Artikel Terbaru](docs/screenshots/artikel-terbaru.png) |
-
 ## Fitur
 
 - Beranda dengan hero, kolom pencarian, dan kategori populer
