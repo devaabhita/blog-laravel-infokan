@@ -168,4 +168,3 @@ php artisan test
 
 Test yang tersedia: beranda tampil, detail artikel menambah views, pencarian, endpoint feed, dan subscribe newsletter (termasuk validasi email).
 
-
