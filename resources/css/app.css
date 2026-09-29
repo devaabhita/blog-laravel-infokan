@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+@source '../views';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+    --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    --color-brand-50: #e6f4f1;
+    --color-brand-600: #1d7f70;
+    --color-brand-700: #17665a;
+}
